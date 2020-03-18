@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//I've now added a random note.
+
 public class ConnectFour {
 
     public static void main(String[] args) {
